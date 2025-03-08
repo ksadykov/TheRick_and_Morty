@@ -1,5 +1,3 @@
-import 'dart:js_interop';
-
 import 'package:rick_morty/feature/data/models/location_model.dart';
 import 'package:rick_morty/feature/domain/entities/person_entity.dart';
 
